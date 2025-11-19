@@ -1,4 +1,4 @@
-package Elijah;
+package Joseph;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -126,3 +126,4 @@ public class RegistrationForm extends JFrame implements ActionListener {
         new RegistrationForm();
     }
 }
+
