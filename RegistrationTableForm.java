@@ -1,4 +1,4 @@
-package Elijah;
+package Joseph;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
@@ -120,3 +120,4 @@ public class RegistrationTableForm extends JFrame implements ActionListener {
         new RegistrationTableForm();
     }
 }
+
